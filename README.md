@@ -1,12 +1,5 @@
 # Stack Machine with Cool
 
-Cool means _Classrom Object-Oriented Language_ and it is a language used in many Computer Science Compilers' courses to teach how to build a compiler from scratch. The language was designed by Alexander Aiken from Stanford University. In his [own page](http://theory.stanford.edu/~aiken/software/cool/cool.html) he talks about Cool:
-
-> Cool is a small language designed for use in an undergraduate compiler course project. While small enough for a one term project, Cool still has many of the features of modern programming languages, including objects, automatic memory management, and strong static typing. Cool is built entirely on public domain tools; it generates code for a MIPS simulator, spim . Thus, the project should port easily to other platforms. The project has been used for teaching compilers at many institutions and the software is stable. 
-
-This program was the first assignment for my Compilers' course at [UFMG](https://ufmg.br/): to build a simples stack machine using Cool. The operations are the following:
-
-
 | Command | Outcome                   |
 |:-------:|---------------------------|
 | _int_   | Push the number typed     |
